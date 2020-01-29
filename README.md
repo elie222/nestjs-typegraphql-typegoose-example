@@ -26,6 +26,8 @@
 
 ## Description
 
+**Note: this demo project has a bug. Specifically if you try to run a query mongo never returns in `src/cats/cats.resolver.ts`**
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
